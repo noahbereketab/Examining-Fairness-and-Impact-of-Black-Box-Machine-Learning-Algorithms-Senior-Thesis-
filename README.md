@@ -1,2 +1,3 @@
-# Hello-World
- My first repository on GitHub
+# Examining Fairness and Impact of Black Box Machine Learning Algorithms
+
+Code for Senior Thesis
